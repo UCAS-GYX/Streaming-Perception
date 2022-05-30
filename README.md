@@ -84,7 +84,7 @@
 @article{gu2022real-time,
   title={Real-time streaming perception system for autonomous driving},
   author={Gu Yongxiang and Wang Qianlei and Qin Xiaolin},
-  journal={arXiv preprint arXiv:2203.04129},
+  journal={2021 China Automation Congress},
   year={2022}
 }
 ```
