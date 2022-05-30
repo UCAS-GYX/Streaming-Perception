@@ -14,14 +14,14 @@
 </div>
 <br>
 
-**Fig:** 检测结果对比
+<div align="center"> Fig: 检测结果对比 </div>
 
 <div align="center">
   <img src="./assert/video.gif"/>
 </div>
 <br>
 
-**Video:** 检测结果对比
+<div align="center"> Video: 检测结果对比 </div>
 
 ## 展示海报
 <div align="center">
